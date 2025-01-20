@@ -1,15 +1,26 @@
 {
-  "name": "@matik/shared",
+  "name": "@matikdotapp/shared",
   "version": "1.0.0",
   "main": "types.ts",
   "types": "types.ts",
   "description": "Shared types for tRPC client and server",
-  "author": "Ei ei@matik.app>",
+  "author": "Ei ei@matik.app",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
     "@trpc/server": "^10.45.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matikdotapp/trpc.git"
+  },
+  "keywords": [
+    "matik-trpc"
+  ]
 }
