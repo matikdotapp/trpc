@@ -9,7 +9,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
+  "peerDependencies": {
     "@trpc/server": "^10.45.2"
   },
   "devDependencies": {},
