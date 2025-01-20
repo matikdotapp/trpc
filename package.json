@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "types.ts",
   "types": "types.ts",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@trpc/server": "^10.45.2"
+  }
 }
