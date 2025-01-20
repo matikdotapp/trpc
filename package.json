@@ -1,6 +1,6 @@
 {
   "name": "@matikdotapp/shared",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "types.ts",
   "types": "types.ts",
   "description": "Shared types for tRPC client and server",
